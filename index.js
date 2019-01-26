@@ -2,7 +2,7 @@ var myPet = 'dog';
 
 var yourPet = 'cat'
 
-// var theFunk = 'FUNKY!';
+var theFunk = 'FUNKY!';
 
 function myAnimal(){
   return myPet;
