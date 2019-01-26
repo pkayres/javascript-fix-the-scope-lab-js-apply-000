@@ -2,7 +2,7 @@ var myPet = 'dog';
 
 var yourPet = 'cat'
 
-var theFunk = 'FUNKY!';
+// var theFunk = 'FUNKY!';
 
 function myAnimal(){
   return myPet;
@@ -15,6 +15,7 @@ function add2(n){
 }
 function funkyFunction(){
   return function(){
+    var theFunk = 'FUNKY!'
     console.log(theFunk)
   };
   }
